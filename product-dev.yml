@@ -14,4 +14,6 @@ eureka:
 
 server:
   port: 8088
+  
+env: env1
 
