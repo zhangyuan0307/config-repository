@@ -13,3 +13,7 @@ env: "envasdasdsa22222"
 
 server:
   port: 8089
+
+person:
+  id: 11
+  name: zs
