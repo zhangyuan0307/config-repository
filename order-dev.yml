@@ -9,11 +9,11 @@ spring:
 
 
 
-env: "envasdasdsa22222"
+env: "env33"
 
 server:
   port: 8089
 
 person:
-  id: 11
-  name: zs
+  id: 22
+  name: zs22
