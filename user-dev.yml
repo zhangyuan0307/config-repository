@@ -9,11 +9,6 @@ spring:
   redis:
     host: localhost
     port: 6379
-  rabbitmq:
-    username: guest
-    password: guest
-    host: 192.168.1.103
-    port: 5672
 
 eureka:
   client:
